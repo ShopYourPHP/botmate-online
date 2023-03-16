@@ -3,7 +3,7 @@
 	"builds" : [{
 		"src": "botmate.js",
 		"use": "@vercel/node",
-                "use": "@vercel/nextjs"
+                
 	}],
 	"routes": [
 		{
